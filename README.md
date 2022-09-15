@@ -1,0 +1,1 @@
+this is an webdev recpies project based on html alone
